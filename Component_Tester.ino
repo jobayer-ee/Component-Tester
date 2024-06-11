@@ -1,19 +1,8 @@
-  /*                      \\\|///
-                        \\  - -  //
-                         (  @ @  )
-  /--------------------oOOo-(_)-oOOo---------------------\
-  |                                                      |
-  |                                                      |
-  |    Transistor Tester for Arduino (version 1.08a)     |
-  |                                                      |
-  |  based on code: Karl-Heinz Kubbeler (version 1.08k)  |
-  |                                                      |
-  |                                                      |
-  |                            Oooo                      |
-  \--------------------oooO----(   )---------------------/
-    	               (   )    ) /
-                        \ (    (_/
-                         \_)                            */
+  /* 
+Abdullah Al Jobayer
+Electrical & Electronic Engineer
+Ofiicial Guithub - https://github.com/jobayer-ee/
+*/
 
 
 #include <avr/io.h>
